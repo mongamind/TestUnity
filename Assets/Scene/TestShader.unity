@@ -580,7 +580,7 @@ GameObject:
   - 65: {fileID: 624508217}
   - 23: {fileID: 624508216}
   m_Layer: 0
-  m_Name: ShsdowAlphaBlendCube
+  m_Name: ShadowAlphaBlendCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
