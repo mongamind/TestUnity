@@ -3,7 +3,7 @@
 		_Color ("Tint Color",Color) = (1,1,1,1)
 		_ReflectColor ("Reflection Color",Color) = (1,1,1,1)
 		_ReflectAmount ("Reflection Amount",Range(0,1)) = 1
-		_Cubemap ("Reflection Cubemap",Cube) = "Skybox" {}
+		_Cubemap ("Reflection Cubemap",Cube) = "_Skybox" {}
 	}
 
 	Subshader {

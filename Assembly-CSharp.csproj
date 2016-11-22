@@ -49,6 +49,7 @@
      <None Include="Assets\Shader\ShadowAlphaTest.shader" />
      <None Include="Assets\Shader\Shadow.shader" />
      <None Include="Assets\Shader\VertexLevelSpecular.shader" />
+     <None Include="Assets\Shader\Refraction.shader" />
      <None Include="Assets\Shader\SingleTexture.shader" />
      <None Include="Assets\Shader\AlphaTest.shader" />
      <None Include="Assets\Shader\Reflection.shader" />
