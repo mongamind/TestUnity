@@ -110,7 +110,7 @@ Shader "ShaderTest/ForwardRendering" {
 			fixed4 frag(v2f i):SV_Target {
 				fixed3 worldNormal = normalize(i.worldNormal);
 				#ifdef USING_DIRECTIONAL_LIGHT
-					fixed3 worldLightDir = normalize(_WorldSpaceLightPos0.xyz))
+					fixed3 worldLightDir = normalize(_WorldSpaceLightPos0.xyz);
 				#else
 					fixed3 worldLightDir = normalize(_WorldSpaceLightPos0.xyz - i.worldPos.xyz);
 				#endif
